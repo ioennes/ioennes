@@ -1,4 +1,4 @@
-$\Huge\iota\omega\alpha\nu\nu\eta\sigma$
+Ιωάννης
 
 ### Interests
 - Algorithms
